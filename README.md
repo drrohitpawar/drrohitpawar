@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi 👋, I'm Dr. Rohit Pawar
+
+I'm a junior doctor in the NHS with a passion for data, cloud, and healthcare 🌐💡 Join me on my journey as I explore the intersection of healthcare and technology, striving to unlock valuable insights from data to improve patient care and healthcare outcomes. 📊🏥 Let's collaborate and innovate together! 🚀
+
+
+
 
 <!--
 **drrohitpawar/drrohitpawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
